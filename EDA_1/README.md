@@ -12,19 +12,19 @@ This project analyzes bank transaction data to extract insights, detect trends, 
 Ensure you have the following dependencies installed:<br>
 
 
-`pip install pandas numpy matplotlib seaborn jupyter`
+    pip install pandas numpy matplotlib seaborn jupyter
 
 
 ### 🚀 How to Use
 
 #### 1.Clone the repository:<br>
-`git clone https://github.com/adnanvp/EDA_PROJECT.git`<br>
+    git clone https://github.com/adnanvp/EDA_PROJECT.git
 
 #### 2.Navigate to the directory:<br>
-`cd EDA_PROJECT/EDA_1`
+    cd EDA_PROJECT/EDA_1
 
 #### 3.Open the Jupyter Notebook:<br>
-`jupyter notebook bank_transactions.ipynb`<br>
+    jupyter notebook bank_transactions.ipynb
 
 #### 4.Run the cells to analyze the data.<br>
 
