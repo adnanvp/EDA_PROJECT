@@ -12,7 +12,7 @@ This project analyzes bank transaction data to extract insights, detect trends, 
 Ensure you have the following dependencies installed:<br>
 
 
-pip install pandas numpy matplotlib seaborn jupyter
+`pip install pandas numpy matplotlib seaborn jupyter`
 
 
 ### 🚀 How to Use
