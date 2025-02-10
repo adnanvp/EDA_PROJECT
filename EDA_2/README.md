@@ -15,7 +15,7 @@ This research undertakes a comprehensive examination of Electric Vehicle (EV) ch
 
 To execute the analysis, ensure the following dependencies are installed:<br>
 
-`pip install pandas numpy matplotlib seaborn jupyter`<br>
+     pip install pandas numpy matplotlib seaborn jupyter
 
 ### 🚀 Implementation Procedure
 
